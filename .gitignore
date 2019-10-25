@@ -2,4 +2,3 @@ node_modules
 *.js
 *.d.ts
 ./lib/tsconfig.tsbuildinfo
-tsconfig.tsbuildinfo
